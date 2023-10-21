@@ -11,7 +11,7 @@ Para executar a calculadora, siga os passos abaixo:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/dart-calculadora-imc-dio.git
+   [https://github.com/SabrinaVailante/calculadora_imc_dio.git]
 
 2. Navegue até o diretório do projeto:
 
